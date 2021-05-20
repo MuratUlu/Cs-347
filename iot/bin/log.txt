@@ -1,0 +1,2166 @@
+New log file created - previous log in 'admin-logs' folder
+
+
+2021-05-13 17:09:36.742
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:37.242
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:37.744
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:38.258
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:38.768
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:39.271
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:39.787
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:40.308
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:40.802
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:41.307
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:41.821
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:42.337
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:42.837
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:43.339
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:43.843
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:44.357
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:44.871
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:45.372
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:45.885
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:46.389
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:46.892
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:47.407
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:47.922
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:48.436
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:48.948
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:49.461
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:49.964
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:50.479
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:50.981
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:51.487
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:51.989
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:52.491
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:53.007
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:53.515
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:54.028
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:54.533
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:55.034
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:55.546
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:56.045
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:56.558
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:57.071
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:57.58
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:58.094
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:58.607
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:59.112
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:09:59.616
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:00.118
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:00.62
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:01.122
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:01.625
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:02.126
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:02.628
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:03.143
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:03.657
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:04.171
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:04.688
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:05.187
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:05.701
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:06.206
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:06.707
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:07.218
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:07.73
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:08.243
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:08.758
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:09.261
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:09.763
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:10.274
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:10.773
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:11.286
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:11.799
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:12.312
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:12.825
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:13.325
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:13.839
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:14.35
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:14.865
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:15.38
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:15.89
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:16.403
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:16.919
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:17.43
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:17.944
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:18.446
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:18.959
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:19.462
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:19.964
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:20.481
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:20.982
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:21.486
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:21.99
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:22.492
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:22.994
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:23.497
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:24.002
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:24.507
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:25.009
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:25.513
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:26.014
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:26.519
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:27.024
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:27.527
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:28.031
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:28.532
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:29.039
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:29.543
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:30.045
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:30.548
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:31.062
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:31.562
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:32.064
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:32.566
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:33.07
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:33.573
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:34.079
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:34.583
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:35.088
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:35.593
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:36.094
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:36.597
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:37.102
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:37.608
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:38.108
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:38.61
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:39.115
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:39.618
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:40.122
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:40.627
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:41.133
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:41.636
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:42.142
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:42.645
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:43.148
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:43.648
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:44.151
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:44.662
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:45.163
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:45.677
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:46.189
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:46.689
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:47.2
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:47.71
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:48.213
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:48.728
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:49.243
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:49.758
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:50.271
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:50.785
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:51.288
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:51.793
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:52.309
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:52.824
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:53.325
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:53.84
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:54.339
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:54.84
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:55.344
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:55.854
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:56.368
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:56.882
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:57.384
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:57.893
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:58.398
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:58.903
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:59.408
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:10:59.914
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:00.414
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:00.918
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:01.432
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:01.939
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:02.443
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:02.955
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:03.461
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:03.962
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:04.463
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:04.966
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:05.467
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:05.972
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:06.474
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:06.989
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:07.501
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:08.016
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:08.529
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:09.043
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:09.555
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:10.058
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:10.563
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:11.065
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:11.566
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:12.071
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:12.576
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:13.081
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:13.583
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:14.097
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:14.6
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:15.112
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:15.628
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:16.132
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:16.633
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:17.139
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:17.639
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:18.146
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:18.65
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:19.153
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:19.657
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:20.16
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:20.662
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:21.164
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:21.668
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:22.171
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:22.672
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:23.174
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:23.676
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:24.181
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:24.687
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:25.189
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:25.691
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:26.195
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:26.7
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:27.202
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:27.705
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:28.208
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:28.713
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:29.22
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:29.721
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:30.229
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:30.732
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:31.234
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:31.74
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:32.244
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:32.744
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:33.25
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:33.754
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:34.257
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:34.759
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:35.263
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:35.768
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:36.268
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:36.769
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:37.27
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:37.771
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:38.278
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:38.781
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:39.282
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:39.786
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:40.293
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:40.794
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:41.297
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:41.801
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:42.303
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:42.81
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:43.315
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:43.815
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:44.318
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:44.819
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:45.328
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:45.833
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:46.334
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:46.837
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:47.34
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:47.844
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:48.347
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:48.849
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:49.355
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:49.855
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:50.358
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:50.862
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:51.364
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:51.866
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:52.369
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:52.87
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:53.375
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:53.88
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:54.381
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:54.884
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:55.389
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:55.891
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:56.396
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:56.906
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:57.419
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:57.92
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:58.426
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:58.929
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:59.432
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:11:59.947
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:00.449
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:00.954
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:01.459
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:01.964
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:02.465
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:02.967
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:03.47
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:03.972
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:04.479
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:04.982
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:05.482
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:05.987
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:06.489
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:06.994
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:07.498
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:08.013
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:08.518
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:09.026
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:09.529
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:10.031
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:10.538
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:11.044
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:11.546
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:12.056
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
+2021-05-13 17:12:12.568
+OPEN GATE DETECTED: Please use horn and apply breaks.
+PASSING THROUGH CLOSED GATE: Honk horn for 6 seconds.
+YELLOW WARNING: OBJECT DETECTED BEHIND - Match speed of rear object - 6.
+RED WARNING: OBJECT DETECTED AHEAD - Stop train.
+WEATHER WARNING: Heavy rain / snow expected.
+
